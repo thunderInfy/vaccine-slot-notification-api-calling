@@ -1,6 +1,6 @@
 ## Using CoWIN's API and Twilio to get notifications for vaccine slots in India
 
-This repository holds part of the code for my medium blog "Using Selenium and Twilio's Voice API to call myself for getting my vaccine slot booked in India". Particularly, it makes requests to the CoWIN [CoWIN](https://www.cowin.gov.in/home) API and whenever a vaccine slot shows up in your pincode, you receive a call on your phone using Twilio's Voice API. 
+This repository holds part of the code for my [medium blog "Using Selenium and Twilio's Voice API to call myself for getting my vaccine slot booked in India"](https://medium.com/@aditya.rastogi/using-selenium-and-twilios-voice-api-to-call-myself-for-getting-my-vaccine-slot-booked-in-india-7e95626f02eb?sk=6db4c55a224da9821e0df39e2925fa3b). Particularly, it makes requests to the CoWIN [CoWIN](https://www.cowin.gov.in/home) API and whenever a vaccine slot shows up in your pincode, you receive a call on your phone using Twilio's Voice API. 
 
 ### Running the Code
 
